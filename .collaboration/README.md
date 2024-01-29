@@ -1,4 +1,4 @@
-# Algorithms and Data Structures: Group Study
+# Collaboration Documents
 
 <!-- group norms summary -->
 
